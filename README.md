@@ -1,6 +1,9 @@
 # OpenSciencePandemic
 
 On this repository, readers, reviewers and co-signers of the article "Open Science Saves Lives: Lessons from the COVID-19 Pandemic" can find the scripts and data for the analysis presented in the article.
+
+The preprint is available here: https://www.biorxiv.org/content/10.1101/2020.08.13.249847v2.full
+
 This repository is composed of three main parts: "conflict analysis", "altmetric analysis", and "retraction analysis"
 The file "PMC_data_parsing.m" is used to produce a list of COVID-19 related articles with their reviewing times. This list is then used to produce the two spreadsheets presented in "conflict_analysis". 
 
