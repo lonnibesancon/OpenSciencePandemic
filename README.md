@@ -19,3 +19,8 @@ The resulting output from altmetric queries is available under the folder "outpu
 
 ## Retraction analysis
 This folder contains the data for the retracted papers during COVID-19, with an analysis of the reasons why they were retracted. This was done manually by compiling several ressources and is available in three different formats.
+
+## License
+All code and data available with a CC-BY the authors.
+
+
